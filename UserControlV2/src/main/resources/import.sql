@@ -1,0 +1,2 @@
+insert into user(id, password, role, username) values (1,'$2a$12$YVbNVYsFGn6ICLODZ1/b4O1e6Zz7EQGnem7sxNWaZ22inGdP09s0C', 'ADMIN', 'master')
+insert into user(id, password, role, username) values (2,'$2a$12$YVbNVYsFGn6ICLODZ1/b4O1e6Zz7EQGnem7sxNWaZ22inGdP09s0C', 'USER', 'demo')
